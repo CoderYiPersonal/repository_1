@@ -1,0 +1,5 @@
+public class method{
+	public void main(String[] args){
+		
+	}
+}
